@@ -2,8 +2,8 @@
 ## Add_Sub_Mul_Div
 Write a+b, a-b, a*b, a/b when given 2 integer.
 ## Basic_Query
-Given a sequence of integers a1, a2, ..., an.
-Perform a sequence of queries over the sequence.
+Given a sequence of integers a1, a2, ..., an.<br>
+Perform a sequence of queries over the sequence.<br>
 Write the result of each query in a corresponding line.
 ## Sum_Array
 Compute the sum Q of elements of the sequence.
