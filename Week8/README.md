@@ -29,7 +29,8 @@ Data about submission of a programming contest consists a sequence of lines, eac
 * &lt;ProblemID&gt; 
 * &lt;TimePoint&gt;
 * &lt;Status&gt;
-* &lt;Point&gt;
+* &lt;Point&gt; 
+
 Perform a sequence of queries of following types:
 * ?total_number_submissions
 * ?number_error_submision
