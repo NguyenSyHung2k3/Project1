@@ -20,6 +20,7 @@ Given a sequence of strings k1, k2, …, kn, compute the corresponding hash code
 Input:
 * Line 1: n and m (1 <= n,m <= 100000)
 * Line i+1 (i = 1,2,…,n): contains the string ki (the length of each string is less than or equal to 200)
+
 Output:
 **Each line contains the corresponding hash code of n given strings**
 
