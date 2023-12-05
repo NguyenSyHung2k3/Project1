@@ -9,7 +9,7 @@ Write the result of each query in a corresponding line.
 Compute the sum Q of elements of the sequence.
 
 ## Extract_Date 
-Extract the format YYYY-MM-DD the year, month, date and separated by <b>space</b>
+Extract the format YYYY-MM-DD the year, month, date and separated by **Space**
 ## List_Number
 List all the numbers from 1 to n and its squares
 
