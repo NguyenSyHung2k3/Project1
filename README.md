@@ -8,4 +8,5 @@ Tạo tài khoản GitHub theo đường [link](https://github.com)
 ### Cài đặt Git
 Cài đặt Git bằng các đường link sau:
 -[Win](https://git-scm.com/download/win)
--[MacOs]()
+-[MacOs](https://git-scm.com/download/mac)
+-[Linux](https://git-scm.com/download/linux)
