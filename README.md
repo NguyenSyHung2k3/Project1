@@ -42,6 +42,7 @@ git commit-m"your commit"
 ```xml
 git push origin master
 ```
+![image](https://github.com/NguyenSyHung2k3/Project1/blob/master/image/Screenshot%202023-12-19%20172850.png)
 ## Lợi ích GitHub đối với lập trình viên
 ### Quản lý source code dễ 
 Khi bạn tạo một repo, toàn bộ source code của repo đó được lưu trên GitHub. Tại đây, bạn có thể coi lại quá trình mình đã làm việc thông qua các comment sau mỗi lần commit. Và cái hay ở đây, là nhiều người có thể cùng làm một repo.
